@@ -1,6 +1,6 @@
-# Ticapsoriginal Front End Megaindexing Pac
+# Ticapsoriginal Front End Megaindexing Pac Page
 
-Ticapsoriginal Front End Megaindexing Pac
+[`Ticapsoriginal`](https://github.com/Tinoco) Front End Megaindexing Pac Page
 
 #  Full coverage test with [`ahrefs SEO toolbar`](https://chrome.google.com/webstore/detail/ahrefs-seo-toolbar/hgmoccdbjhknikckedaaebbpdeebhiei) : 
 
