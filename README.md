@@ -2,7 +2,7 @@
 
 [`Ticapsoriginal`](https://github.com/Tinoco) Front End Megaindexing Pac Page
 
-#  Full coverage test with [`ahrefs SEO toolbar`](https://chrome.google.com/webstore/detail/ahrefs-seo-toolbar/hgmoccdbjhknikckedaaebbpdeebhiei) : 
+##  Full coverage test with [`ahrefs SEO toolbar`](https://chrome.google.com/webstore/detail/ahrefs-seo-toolbar/hgmoccdbjhknikckedaaebbpdeebhiei) : 
 
 * Indexability
 * content indexing
@@ -13,14 +13,14 @@
 * http headers
 * images alternative text
 
-# Full coverage thumb indexing patterns[`placid social share thumb test`](https://socialsharepreview.com/?url=https://ticapsoriginal.com/en/ibm/) :
+## Full coverage thumb indexing patterns[`placid social share thumb test`](https://socialsharepreview.com/?url=https://ticapsoriginal.com/en/ibm/) :
 
 * twitter thumb rendering
 * facebook thumb rendering
 * linkedin thumb rendering
 * pinterest thumb rendering
 
-# seo scores :
+## seo scores :
 * seo scores 90 +
 
 * indexability / content indexing / json-ld structed data
@@ -32,5 +32,5 @@
 * http headers / images 
 ![](https://ticapsoriginal.com/static/frontindex3.png)
 
-* Full coverage placid socialshare thumb test
-![](https://ticapsoriginal.com/static/frontindex4.png):
+* Full coverage placid socialshare thumb test :
+![](https://ticapsoriginal.com/static/frontindex4.png)
