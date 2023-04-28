@@ -13,7 +13,7 @@
 * http headers
 * images alternative text
 
-## Full coverage thumb indexing patterns[`placid social share thumb test`](https://socialsharepreview.com/?url=https://ticapsoriginal.com/en/ibm/) :
+## Full coverage indexing[`placid social share thumb test`](https://socialsharepreview.com/?url=https://ticapsoriginal.com/en/ibm/) :
 
 * twitter thumb rendering
 * facebook thumb rendering
