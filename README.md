@@ -13,10 +13,12 @@
 * http headers
 * images alternative text
 
-# thumb patterns indexing :
-* twitter thumb
-* facebook thumb
-* linkedin thumb
+# Full coverage thumb indexing patterns[`placid social share thumb test`](https://socialsharepreview.com/?url=https://ticapsoriginal.com/en/ibm/) :
+
+* twitter thumb rendering
+* facebook thumb rendering
+* linkedin thumb rendering
+* pinterest thumb rendering
 
 # seo scores :
 * seo scores 90 +
@@ -29,3 +31,6 @@
 
 * http headers / images 
 ![](https://ticapsoriginal.com/static/frontindex3.png)
+
+* Full coverage placid socialshare thumb test
+![](https://ticapsoriginal.com/static/frontindex4.png):
