@@ -34,3 +34,6 @@
 
 * Full coverage placid socialshare thumb test :
 ![](https://ticapsoriginal.com/static/frontindex4.png)
+
+## about:
+* code and resource used in [`Ticapsoriginal`](https://ticapsoriginal.com)
